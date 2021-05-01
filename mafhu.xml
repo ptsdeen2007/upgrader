@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>Debt Now App - Appcast</title>
+        <item>
+            <title>Version 1.0</title>
+            <description>Please update your application</description>
+            <pubDate>Sat, 19 july 2021 20:00:00 +0000</pubDate>
+          <enclosure url="https://play.google.com/store/apps/details?id=com.oncods.oncodsramzan.kleemz" sparkle:version="1.22" sparkle:os="android" />
+      </item>
+    </channel>
+</rss>
